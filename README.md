@@ -1,5 +1,8 @@
 # JSON Searcher 🔎
 
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/matheus-foscarinid.json-searcher?color=orange) 
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/matheus-foscarinid.json-searcher?label=latest%20Version&&color=dark-green)
+
 JSON Searcher is a simple VSCode extension for searching within JSON files, particularly useful for locating data in i18n (internationalization) files. Easily find and navigate to specific data within your JSON files using the provided path. Simplify your JSON searching and streamline your i18n file management with JSON Searcher.<br><br>
 If you like this project, please give it a 🌟!<br>
 
